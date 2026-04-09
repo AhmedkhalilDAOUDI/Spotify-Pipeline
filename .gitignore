@@ -4,4 +4,4 @@ venv/
 __pycache__/
 *.pyc
 data/raw/
-notebooks/.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/.DS_Store
