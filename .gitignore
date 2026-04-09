@@ -1,0 +1,7 @@
+.env
+.spotify_cache
+venv/
+__pycache__/
+*.pyc
+data/raw/
+notebooks/.ipynb_checkpoints/
